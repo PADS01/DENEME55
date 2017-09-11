@@ -1,0 +1,4 @@
+<?PHP
+ECHO "MERHABA";
+
+?>
